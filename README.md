@@ -40,6 +40,7 @@ Verify me:
 
 ### 📡 Endpoints
 - **Matrix:** `@wux4an:mozilla.org`
+- **Bluesky:** `@wux4an.bsky.social.`
 - **Location:** `9° N, 80° W`
 
 ### ❤️ Support Me
