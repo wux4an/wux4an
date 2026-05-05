@@ -38,6 +38,9 @@ Verify me:
 - **Age Public Key:**
 `age16tpvuuetjk9halj4uu24fcqp0dazy74masdn83rr7kd26dje8csql9pnmu`
 
+- **SSH Public Key:**
+`ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJDAq6MSvfWszlMbWR7NSLNMBWFNF8fARdvew+QuZQBx wux4an`
+
 ### 📡 Endpoints
 - **Matrix:** `@wux4an:mozilla.org`
 - **Bluesky:** `@wux4an.bsky.social.`
